@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 /* BODY*/
 
 body {
-    font-family: 'Lora';
+    font-family: 'Raleway';
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -58,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
+    font-family: Arial;
     line-height: 1.75;
 }
 
@@ -409,3 +410,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
     background-color: #fed136;
 }
+.products{
+    font-family: Arial;
+
+
+} 
