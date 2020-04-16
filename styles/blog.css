@@ -106,7 +106,7 @@ img::-moz-selection {
         transition: background-color 0.2s;
         /* Force Hardware Acceleration in WebKit */
         transform: translate3d(0, 0, 0);
-        -webkit-backface-visibility: hidden;
+       /* -webkit-backface-visibility: hidden;*/
     }
     #mainNav.is-fixed {
         /* when the user scrolls down, we hide the header right above the viewport */
@@ -293,7 +293,7 @@ header.masthead .post-heading .meta a {
     font-family: 'Lora', 'Times New Roman', serif;
 }
 
-.floating-label-form-group label {
+/*floating-label-form-group label {
     font-size: 0.85em;
     line-height: 1.764705882em;
     position: relative;
@@ -305,7 +305,7 @@ header.masthead .post-heading .meta a {
     vertical-align: middle;
     vertical-align: baseline;
     opacity: 0;
-}
+}*/
 
 .floating-label-form-group .help-block {
     margin: 15px 0;
