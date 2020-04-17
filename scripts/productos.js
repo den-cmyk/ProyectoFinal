@@ -4,11 +4,7 @@ var arreglo = [1, 3, 5, 8];
 // Llave: valor
 
 // JSON
-
-// JavaScript
-// Object
-// Notation
-
+// JavaScript Object Notation
 var objeto = {
     // Atributos
     nombre: "Sunset Crush",
