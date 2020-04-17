@@ -1,0 +1,140 @@
+.navbar {
+    background-color: black;
+    display: block;
+}
+
+.navbar .nav-item .nav-link {
+    color: rgba(250, 250, 250, 0.591);
+    font-weight: 800;
+}
+
+.navbar-nav, .nav-item, .nav-link:hover {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+/* LETRAS*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway';
+}
+
+.site-heading {
+    margin-top: 0rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: 'Raleway';
+}
+
+.site-heading .site-heading-upper {
+    display: block;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.site-heading .site-heading-lower {
+    font-size: 5rem;
+    font-weight: 100;
+    line-height: 4rem;
+}
+
+/* SUBMENU*/
+
+.subtitle {
+    font-size: 5rem;
+    margin-top: 30px;
+    color: #e6a756;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.nav-link{
+    color: #e6a756;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+}
+
+.nav-link2 {
+    color: #e6a756;
+    font-weight: 800;
+}
+
+.bg{
+    background-color: black;
+}
+/*SERVICES*/
+
+.nails-title {
+    color:#e6a756;
+    text-align: center;
+    margin-top: 50px;
+
+    background-image: url(https://unblast.com/wp-content/uploads/2018/08/Dust-Textures.jpg);
+}
+
+.container-2 {
+    background-image: url(https://unblast.com/wp-content/uploads/2018/08/Dust-Textures.jpg);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.card {
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 300px;
+    height: 450px;
+    background-color: #111110;
+    color: white
+    ;
+}
+
+.card-img-top{
+    align-items: center\;
+    width: 250px;
+    height: 255px;
+}
+
+.card-title .card-text {
+    text-align: center;
+}
+
+.container-3{
+    background-image: url(https://unblast.com/wp-content/uploads/2018/08/Dust-Textures.jpg);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.container-4{
+    background-image: url(https://unblast.com/wp-content/uploads/2018/08/Dust-Textures.jpg);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+#form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.container-5{
+    color: white;
+    width: 500px;
+    height: auto;
+    align-content: center;
+    background-image: url(https://unblast.com/wp-content/uploads/2018/08/Dust-Textures.jpg);
+}
+
+
+.subt2{
+    color:#e6a756;
+    text-align: center;
+    margin-top: 50px;
+
+    background-image: url(https://unblast.com/wp-content/uploads/2018/08/Dust-Textures.jpg);
+}
