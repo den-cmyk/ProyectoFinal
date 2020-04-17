@@ -7,5 +7,5 @@ var objeto = {
     lugar: "DevF Remoto",
 }
 obtenerInfo: function() {
-    this.nombre + " fue creada en DevF por " + this.autor + " en el año " + this.anio;
+    this.nombre + " fue creada en DEV.F por " + this.autor[0] + " " + this.autor[1] + " " + this.autor[2] + " en el año " + this.anio;
 }
